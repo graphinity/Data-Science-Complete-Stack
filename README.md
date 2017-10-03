@@ -1,37 +1,19 @@
-# Data-Science-R-Language-Notes
-This repository contains R sample code snippets covering various aspects of programming language
+# Data-Science-Masters-Program-Notes
+This repository contains all learning and reference notes, sample codes and assignments for Data Science Master's program. It covers following broad areas:
 
-FOLDER: Basic-Statistics-Probability-Using-R
+1. Statistics Essentials 
+2. R Programming
+3. Scala Programming
+4. Data Science 
+5. Python Programming
+6. Big Data, Hadoop, Mapreduce, PIG and HIVE
+7. Spark with Scala
+8. Machine Learning with Mahoot
+9. AI & Deep Learning with Tensor Flow
+10. Tableau & Data Visualization
+11. Predictive & Decision Tree Modeling
 
-File 1 - AirlineDataAnalysis-R-Programming-Basic-Statistics
+The course notes, datasets and programs are organized in their respective folders and every folder has its respective readme file with detailed notes on what is present in the folder.
 
-# Load the csv file with airlines data
-# (a) Check the skewness of Distance travelled by airlines.
-# (b) Calculate the mean, median and quantiles of the distance travelled by US Airlines (US).
-# (c) Check the standard deviation of distance travelled by American Airlines (AA).
-# (d) Draw a boxplot of UniqueCarrier with Distance.
-# (e) Draw the direction of relationship between ArrDelay and DepDelay by drawing a scatterplot.
-
-
-File 2 - AirlineDataAnalysis-R-Programming-Probability
-
-# Load the csv file with airlines data
-# (a)	What is the probability that a flight which is landing/taking off is "WN" Airlines (marginal probability)
-# (b)	What is the probability that a flight which is landing/taking off is either "WN" or "AA" Airlines (disjoint events)
-# (c)	What is the joint probability that a flight is both "WN" and travels less than 600 miles (joint probability)
-# (d)	What is the conditional probability that the flight travels less than 2500 miles given that the flight is "AA" Airlines (conditional probability)
-# (e)	What is the joint probability of a flight getting cancelled and is supposed to travel less than 2500 miles given that the flight is "AA" Airlines (joint + conditional probability)
-
-File 3 - AirlineDataAnalysis-R-Programming-Distribution
-
-# Calculate probability of normal distribution
-# Calculate distributed binomial
-# (a)	Suppose arrival delays of flights belonging to "AA" are normally distributed with mean 15 minutes and standard deviation 3 minutes. 
-#     If the "AA" plans to announce a scheme where it will give 50% cash back if their flights are delayed by 20 minutes, 
-#     how much percentage of the trips "AA" is supposed to loose this money. (Hint: pnorm)
-# (b)	Assume that 65% of flights are diverted due to bad weather through the Weather System. 
-#     What is the probability that in a random sample of 10 flights, 6 are diverted through the Weather System. (Hint: dbinorm)
-# (c)	Do linear regression between the Arrival Delay and Departure Delay of the flights.
-# (d)	Find out the confidence interval of the fitted linear regression line.
-# (e)	Perform a multiple linear regression between the Arrival Delay along with the Departure Delay and Distance travelled by flights.
-
+Happy Learning with,
+Kshitij Arya
