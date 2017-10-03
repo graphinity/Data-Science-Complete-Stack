@@ -1,5 +1,6 @@
 # Data-Science-Masters-Program-Notes
-This repository contains all learning and reference notes, sample codes and assignments for Data Science Master's program. It covers following broad areas:
+This repository contains all learning and reference notes, sample codes, data sets and assignments for Data Science complete stack. 
+It covers following broad areas:
 
 1. Statistics Essentials 
 2. R Programming
